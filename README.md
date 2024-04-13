@@ -1,5 +1,5 @@
 # TCC
-#Trabalho de Conclusão de Curso: Aprendizagem de Máquina na Classificação da Evasão Segundo Dados Socioeconômicos dos Cursos do IFNMG - Campus Salinas
+# Trabalho de Conclusão de Curso: Aprendizagem de Máquina na Classificação da Evasão Segundo Dados Socioeconômicos dos Cursos do IFNMG - Campus Salinas
 
 Neste repositório foram disponibilizados os arquivos do desenvolvimento de códigos na linguagem python produzidos durante o meu Trabalho de Conclusão de Curso.
 
